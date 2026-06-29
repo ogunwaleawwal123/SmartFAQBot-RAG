@@ -37,7 +37,7 @@ embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
     model_name="BAAI/bge-small-en-v1.5"
 )
 
-db = chromadb.PersistentClient(path="database")
+db = chromadb.Client()
 
 collection = db.get_collection(
     name="dna_faq",
