@@ -37,8 +37,7 @@ embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
     model_name="BAAI/bge-small-en-v1.5"
 )
 
-db = chromadb.Client()
-
+db = chromadb.PersistentClient(path="database")
 collection_name = "dna_faq"
 
 try:
@@ -209,50 +208,48 @@ def retrieve_context(question):
 
 def ask_groq(question):
 
+    import time
+
+    start = time.time()
+
     cache_key = question.lower().strip()
 
     if cache_key in CACHE:
-
+        print(f"Cache: {time.time() - start:.2f}s")
         return CACHE[cache_key]
 
     context = retrieve_context(question)
+    print(f"Retrieval: {time.time() - start:.2f}s")
+
+    groq_start = time.time()
 
     response = groq.chat.completions.create(
-
         model="llama-3.3-70b-versatile",
-
         temperature=0.35,
-
         max_tokens=1200,
-
         messages=[
-
             {
                 "role": "system",
                 "content": SYSTEM_PROMPT
             },
-
             {
                 "role": "system",
-                "content":
-                f"""
-FAQ CONTEXT
-
-{context}
-"""
+                "content": f"FAQ CONTEXT\n\n{context}"
             },
-
             {
                 "role": "user",
                 "content": question
             }
-
         ]
     )
+
+    print(f"Groq: {time.time() - groq_start:.2f}s")
 
     answer = response.choices[0].message.content.strip()
 
     CACHE[cache_key] = answer
+
+    print(f"Total: {time.time() - start:.2f}s")
 
     return answer
 # -----------------------
