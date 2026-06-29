@@ -39,10 +39,19 @@ embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
 
 db = chromadb.Client()
 
-collection = db.get_collection(
-    name="dna_faq",
-    embedding_function=embedding_function
-)
+collection_name = "dna_faq"
+
+try:
+    collection = db.get_collection(
+        name=collection_name,
+        embedding_function=embedding_function
+    )
+
+except:
+    collection = db.create_collection(
+        name=collection_name,
+        embedding_function=embedding_function
+    )
 
 # -----------------------
 # FAQ TEXT
