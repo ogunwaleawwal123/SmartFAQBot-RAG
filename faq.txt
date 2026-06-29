@@ -1,0 +1,1936 @@
+1. What is DNA Funded?
+
+DNA Funded is a proprietary trading firm that evaluates traders through simulated trading challenges. Successful traders can progress to a Funded Stage and become eligible for profit sharing under the Rules & Conditions.
+
+
+---
+
+2. Are trades placed in the real market?
+
+No. All trading takes place in a simulated live market environment. No real market orders are executed.
+
+
+---
+
+3. Are the profits and losses real money?
+
+No. All account balances, profits, losses, and payouts are based on simulated trading performance.
+
+
+---
+
+4. What happens if I break a trading rule?
+
+Breaking any trading rule may result in your account being breached, terminated, or your payout being rejected, depending on the violation.
+
+
+---
+
+5. Can DNA Funded change its Rules & Conditions?
+
+Yes. DNA Funded may amend its Rules & Conditions. Any material changes will be communicated to participants where applicable.
+
+
+---
+
+6. Can I stop participating in my challenge?
+
+Yes. You may stop participating at any time in accordance with the General Terms & Conditions.
+
+
+---
+
+7. Who cannot participate in DNA Funded?
+
+Residents or citizens of restricted countries listed in the Rules & Conditions are not eligible unless specifically approved by DNA Funded.
+
+
+---
+
+8. I live in a restricted country but have legal residency elsewhere. Can I participate?
+
+Possibly. DNA Funded may approve your participation if you provide acceptable proof of legal residence in a non-restricted country.
+
+
+---
+
+9. Which trading platform does DNA Funded use?
+
+TradeLocker.
+
+
+---
+
+10. What currency are DNA Funded accounts denominated in?
+
+All trading accounts are denominated in USD.
+
+
+---
+
+CHALLENGE TYPES
+
+11. What challenge types does DNA Funded offer?
+
+1 Phase Challenge
+
+2 Phase Challenge
+
+Rapid Challenge
+
+Instant Funding
+
+24-Hour Challenge
+
+
+
+---
+
+12. What is the 1 Phase Challenge?
+
+The 1 Phase Challenge requires you to pass a single Evaluation before progressing to the Funded Stage.
+
+
+---
+
+13. What is the 2 Phase Challenge?
+
+The 2 Phase Challenge requires you to successfully complete both the Evaluation and Verification stages before reaching the Funded Stage.
+
+
+---
+
+14. What is the Rapid Challenge?
+
+The Rapid Challenge is a one-stage evaluation that must be completed within 10 calendar days.
+
+
+---
+
+15. What is Instant Funding?
+
+Instant Funding skips the Evaluation and Verification stages, allowing you to begin directly with a funded account under its specific trading rules.
+
+
+---
+
+16. What is the 24-Hour Challenge?
+
+The 24-Hour Challenge is a special challenge where you trade for 24 hours to reach a fixed profit target while following its dedicated rules.
+
+
+---
+
+17. What is the Evaluation Stage?
+
+The Evaluation Stage is where you must achieve the required profit target without breaking any trading rules.
+
+
+---
+
+18. What is the Verification Stage?
+
+The Verification Stage is the second stage of the 2 Phase Challenge, designed to confirm consistent trading performance before funding.
+
+
+---
+
+19. What is the Funded Stage?
+
+The Funded Stage is where eligible traders can receive a share of simulated trading profits after passing the required evaluation process.
+
+
+---
+
+20. Do all challenge types have an Evaluation Stage?
+
+No. Instant Funding and the 24-Hour Challenge do not have Evaluation or Verification stages.
+
+
+---
+
+ACCOUNT SIZES & FEES
+
+21. What account sizes are available for the 1 Phase Challenge?
+
+$5,000
+
+$10,000
+
+$25,000
+
+$50,000
+
+$100,000
+
+$200,000
+
+
+
+---
+
+22. What are the fees for the 1 Phase Challenge?
+
+$5,000 – $59
+
+$10,000 – $89
+
+$25,000 – $179
+
+$50,000 – $319
+
+$100,000 – $619
+
+$200,000 – $1,209
+
+
+
+---
+
+23. What account sizes are available for the 2 Phase Challenge?
+
+$5,000
+
+$10,000
+
+$25,000
+
+$50,000
+
+$100,000
+
+$200,000
+
+
+
+---
+
+24. What are the fees for the 2 Phase Challenge?
+
+$5,000 – $49
+
+$10,000 – $79
+
+$25,000 – $159
+
+$50,000 – $289
+
+$100,000 – $549
+
+$200,000 – $1,079
+
+
+
+---
+
+25. What account sizes are available for the Rapid Challenge?
+
+$10,000
+
+$25,000
+
+$50,000
+
+$100,000
+
+
+
+---
+
+26. What are the fees for the Rapid Challenge?
+
+$10,000 – $99
+
+$25,000 – $189
+
+$50,000 – $329
+
+$100,000 – $549
+
+
+
+---
+
+27. What account sizes are available for Instant Funding?
+
+$5,000
+
+$10,000
+
+$25,000
+
+$50,000
+
+
+
+---
+
+28. What are the fees for Instant Funding?
+
+$5,000 – $199
+
+$10,000 – $309
+
+$25,000 – $559
+
+$50,000 – $979
+
+
+
+---
+
+29. What account size is available for the 24-Hour Challenge?
+
+The 24-Hour Challenge is only available as a $20,000 account.
+
+
+---
+
+30. What are the fees for the 24-Hour Challenge?
+
+Available options are:
+
+$25
+
+$50
+
+$100
+
+$250
+
+$500
+
+
+
+---
+
+31. Are all challenge fees charged in USD?
+
+Yes. All prices are listed in USD.
+
+
+---
+
+32. Do the listed fees include taxes?
+
+No. Taxes and any applicable statutory charges are the participant's responsibility.
+
+
+---
+
+TRADING CONDITIONS
+
+33. What drawdown model is used?
+
+1 Phase, 2 Phase & Rapid: Balance-Based Daily Drawdown + Static Maximum Drawdown.
+
+Instant Funding: Trailing Drawdown.
+
+24-Hour Challenge: Trailing Drawdown.
+
+
+
+---
+
+34. How is the Daily Drawdown calculated?
+
+The Daily Drawdown is calculated from the previous day's closing balance, not from your current equity.
+
+
+---
+
+35. What is a Static Maximum Drawdown?
+
+A Static Maximum Drawdown is a fixed loss limit based on your starting account balance. It does not increase as your account grows.
+
+
+---
+
+36. What is a Trailing Drawdown?
+
+A Trailing Drawdown follows your highest account equity. As your equity reaches new highs, the drawdown level moves upward but never moves back down.
+
+
+---
+
+37. Which challenge types use a Trailing Drawdown?
+
+Only Instant Funding and the 24-Hour Challenge use a Trailing Drawdown.
+
+
+---
+
+38. What happens if I exceed my Daily Drawdown?
+
+Your account will be considered breached for violating the trading rules.
+
+
+---
+
+39. What happens if I exceed my Maximum Drawdown?
+
+Your account will be breached and terminated.
+
+
+---
+
+40. Is drawdown based on balance or equity?
+
+It depends on the challenge:
+
+Standard challenges use a Balance-Based Daily Drawdown and a Static Maximum Drawdown.
+
+Instant Funding and the 24-Hour Challenge use a Trailing Drawdown based on your highest equity.
+
+
+
+---
+
+LEVERAGE
+
+41. What Forex leverage is available?
+
+Forex pairs are traded with 1:50 leverage.
+
+
+---
+
+42. What leverage is available for Commodities?
+
+1:10
+
+
+---
+
+43. What leverage is available for Indices?
+
+1:10
+
+
+---
+
+44. What leverage is available for Cryptocurrency?
+
+1:2
+
+
+---
+
+45. What leverage is available for Stocks?
+
+1:5
+
+
+---
+
+TRADING COSTS
+
+46. Are commissions charged?
+
+Yes. Commission depends on the instrument being traded.
+
+
+---
+
+47. What commission is charged on Forex?
+
+Forex positions are charged $5 per lot when a trade is opened.
+
+
+---
+
+48. What commission is charged on Cryptocurrency?
+
+Crypto positions are charged 0.01% of the notional trade value when opening a trade.
+
+
+---
+
+49. What commission is charged on Stocks?
+
+US Stocks: $2 per lot at both the opening and closing of the trade.
+
+Non-US Stocks: 0.1% of the notional trade value at both the opening and closing of the trade.
+
+
+
+---
+
+50. Are overnight swap fees charged?
+
+Yes. Standard overnight swap charges apply to eligible positions held overnight.
+
+
+---
+
+51. Is there a profit target in the Funded Stage?
+
+No. Once you reach the Funded Stage, there is no profit target. Profit targets only apply during the assessment stages.
+
+
+---
+
+52. What is the profit target for the 1 Phase Challenge?
+
+The Evaluation profit target is 10%.
+
+
+---
+
+53. What is the Evaluation profit target for the 2 Phase Challenge?
+
+The Evaluation profit target is 8%.
+
+
+---
+
+54. What is the Verification profit target for the 2 Phase Challenge?
+
+The Verification profit target is 5%.
+
+
+---
+
+55. What is the profit target for the Rapid Challenge?
+
+The Evaluation profit target is 5%.
+
+
+---
+
+56. Does Instant Funding have a profit target?
+
+No. Instant Funding does not have an evaluation profit target.
+
+
+---
+
+57. Does the 24-Hour Challenge have a percentage profit target?
+
+No. The 24-Hour Challenge uses fixed dollar profit targets instead of percentages.
+
+
+---
+
+58. What are the profit targets for the 24-Hour Challenge?
+
+2x Option: $350
+
+5x Option: $800
+
+10x Option: $1,500
+
+
+
+---
+
+MINIMUM TRADING DAYS
+
+59. Is there a minimum trading day requirement?
+
+Yes.
+
+
+---
+
+60. How many trading days are required?
+
+A minimum of 5 trading days is required where applicable.
+
+
+---
+
+61. What counts as a trading day?
+
+A trading day is any day on which at least one trade is opened and closed according to the Rules.
+
+
+---
+
+62. Does Instant Funding require minimum trading days?
+
+Yes. The minimum trading day requirement also applies to Instant Funding.
+
+
+---
+
+63. Does the 24-Hour Challenge require minimum trading days?
+
+No.
+
+
+---
+
+64. Is there a minimum trade duration?
+
+Yes. For the 24-Hour Challenge, every trade must remain open for at least 60 seconds.
+
+
+---
+
+ACCOUNT INACTIVITY
+
+65. What is the inactivity limit?
+
+Accounts become inactive after 30 consecutive days without placing a trade.
+
+
+---
+
+66. Does the inactivity rule apply during Evaluation?
+
+Yes.
+
+
+---
+
+67. Does the inactivity rule apply during the Funded Stage?
+
+Yes.
+
+
+---
+
+68. Does the inactivity rule apply to the 24-Hour Challenge?
+
+No.
+
+
+---
+
+CHALLENGE DURATION
+
+69. Does the 1 Phase Challenge have a time limit?
+
+No. The challenge has unlimited time.
+
+
+---
+
+70. Does the 2 Phase Challenge have a time limit?
+
+No. There is no time limit.
+
+
+---
+
+71. How long does the Rapid Challenge last?
+
+The Rapid Challenge lasts 10 calendar days.
+
+
+---
+
+72. How long does the 24-Hour Challenge last?
+
+Exactly 24 hours.
+
+
+---
+
+73. When does the 24-Hour Challenge begin?
+
+The challenge starts immediately after the account is issued.
+
+
+---
+
+74. Can I extend my Rapid Challenge?
+
+No extension is mentioned in the Rules & Conditions.
+
+
+---
+
+75. Can I extend my 24-Hour Challenge?
+
+No. The Rules do not provide an extension option.
+
+
+---
+
+ACCOUNT LIMITS
+
+76. What is the maximum account allocation?
+
+The maximum allocation across all active accounts is $600,000.
+
+
+---
+
+77. Can I exceed the maximum allocation?
+
+No. You cannot exceed a combined allocation of $600,000.
+
+
+---
+
+OPTIONAL ADD-ONS
+
+78. Does DNA Funded offer optional add-ons?
+
+Yes.
+
+
+---
+
+79. What is the Demo Reset add-on?
+
+The Demo Reset allows eligible challenge accounts to be reset instead of purchasing a new challenge.
+
+It is available for:
+
+1 Phase
+
+2 Phase
+
+Rapid
+
+
+The cost is 50% of the original challenge fee.
+
+
+---
+
+80. What is the Funded Reset add-on?
+
+The Funded Reset allows eligible 24-Hour Challenge accounts to be reset.
+
+The cost is 60% of the original purchase price.
+
+
+---
+
+81. What is the Earlier Payout add-on?
+
+This add-on reduces the payout waiting period from 14 days to 7 days.
+
+The cost is 20% of the original challenge fee.
+
+
+---
+
+82. Which challenge types support the Earlier Payout add-on?
+
+1 Phase
+
+2 Phase
+
+Rapid
+
+Instant Funding
+
+
+
+---
+
+83. What is the 90% Profit Split add-on?
+
+It increases your profit split from 80% to 90%.
+
+
+---
+
+84. Which challenge types support the 90% Profit Split add-on?
+
+1 Phase
+
+2 Phase
+
+Rapid
+
+Instant Funding
+
+
+
+---
+
+PAYOUTS
+
+85. What is the standard profit split?
+
+The standard profit split is 80%.
+
+
+---
+
+86. Can I increase my profit split?
+
+Yes. Purchasing the 90% Profit Split Add-on increases your profit share to 90%.
+
+
+---
+
+87. How are payouts calculated for the 24-Hour Challenge?
+
+24-Hour Challenge payouts are based on your selected 2x, 5x, or 10x multiplier, not on an 80% or 90% profit split.
+
+
+---
+
+88. What is the minimum payout amount?
+
+The minimum payout amount is $100.
+
+
+---
+
+89. What is the minimum payout amount for the 24-Hour Challenge?
+
+The minimum payout amount is $10.
+
+
+---
+
+90. Can I receive a bank transfer for a payout below $100?
+
+No. Payouts below $100 are paid via cryptocurrency only.
+
+
+---
+
+91. When can I request my first payout?
+
+You may request your first payout 14 days after your funded account is created.
+
+
+---
+
+92. Is there a waiting period between payout requests?
+
+Yes. A 14-day interval applies between payout requests unless you purchased the Earlier Payout add-on.
+
+
+---
+
+93. When can I request a payout for the 24-Hour Challenge?
+
+Immediately after successfully completing the challenge.
+
+
+---
+
+94. Are all payout requests reviewed?
+
+Yes. Every payout request is reviewed before approval.
+
+
+---
+
+95. Who reviews payout requests?
+
+DNA Funded's Risk Team.
+
+
+---
+
+96. Can my payout request be rejected?
+
+Yes. Payout requests may be rejected if the Rules are violated or if the account does not pass the Risk Team review.
+
+
+---
+
+97. Can DNA Funded ask me to complete KYC?
+
+Yes. Identity verification (KYC) may be required before a payout is approved.
+
+
+---
+
+98. Can DNA Funded request a phone or video verification?
+
+Yes. The Risk Team may require a phone or video call before approving a payout.
+
+
+---
+
+99. How long do approved payouts usually take?
+
+Approved payouts are generally processed within 24–48 hours.
+
+
+---
+
+100. Can payout processing take longer than 48 hours?
+
+Yes. Additional compliance checks or investigations may extend the processing time.
+
+
+---
+
+
+101. Is Martingale allowed?
+
+No. Martingale is prohibited in the Funded Stage.
+
+
+---
+
+102. What is Martingale?
+
+It is a strategy where position sizes are progressively increased while holding floating losses.
+
+
+---
+
+103. What happens if I use Martingale?
+
+Your account may be terminated or your payout may be withheld.
+
+
+---
+
+104. Is Hedging allowed?
+
+No.
+
+
+---
+
+105. What counts as hedging?
+
+Opening positions that create offsetting or opposing exposure to the same underlying asset across one or multiple accounts.
+
+
+---
+
+106. Can I hedge using different currency pairs?
+
+No. If they create opposing exposure, it's still considered hedging.
+
+
+---
+
+107. Can I hedge using correlated markets?
+
+No. For example, using SPX500 and VIX to offset risk is prohibited.
+
+
+---
+
+108. Is High Frequency Trading (HFT) allowed?
+
+No.
+
+
+---
+
+109. What is High Frequency Trading?
+
+Using algorithms to execute a large number of trades at extremely high speeds.
+
+
+---
+
+110. Is Scalping allowed?
+
+Opening and closing trades within 30 seconds is prohibited in the Funded Stage.
+
+
+---
+
+111. Can I scalp during the Evaluation?
+
+The rules only prohibit it in the Funded Stage.
+
+
+---
+
+112. Is Tick Scalping allowed?
+
+No.
+
+
+---
+
+113. What is Tick Scalping?
+
+Attempting to profit from tiny price movements using very rapid trades.
+
+
+---
+
+114. Is Grid Trading allowed?
+
+No.
+
+
+---
+
+115. What is Grid Trading?
+
+Placing buy and sell orders at fixed intervals around the current price.
+
+
+---
+
+116. Is Swing Trading allowed?
+
+Yes.
+
+
+---
+
+117. Can I hold trades for several days?
+
+Yes. Swing trading is allowed.
+
+
+---
+
+118. Can someone else trade on my account?
+
+No.
+
+
+---
+
+119. Can I let my friend manage my account?
+
+No.
+
+
+---
+
+120. Can I log into someone else's account?
+
+No.
+
+
+---
+
+121. Is Copy Trading allowed?
+
+No, not in the Funded Stage.
+
+
+---
+
+122. What is Copy Trading?
+
+Automatically copying another trader's trades in real time without your own trading decisions.
+
+
+---
+
+123. Is Gap Trading allowed?
+
+No.
+
+
+---
+
+124. What is Gap Trading?
+
+Opening or closing trades around market openings to profit from price gaps.
+
+
+---
+
+125. Can I use a VPN?
+
+Yes.
+
+
+---
+
+126. Can I use a VPS?
+
+Yes.
+
+
+---
+
+127. Are there any conditions for VPN/VPS usage?
+
+Yes. DNA Funded may request your VPN login history during a review.
+
+
+---
+
+128. Can I trade from another location using a VPN?
+
+Yes, provided you can satisfy any verification requested by the Risk Team.
+
+
+---
+
+129. Is Arbitrage allowed?
+
+No.
+
+
+---
+
+130. What types of arbitrage are prohibited?
+
+Latency arbitrage, reverse arbitrage, swap arbitrage, financing abuse, and other market abuse strategies.
+
+
+---
+
+131. What is Latency Arbitrage?
+
+Exploiting delays in pricing or execution to gain an unfair advantage.
+
+
+---
+
+132. What is Reverse Arbitrage?
+
+Intentionally losing on one account while profiting from another.
+
+
+---
+
+133. Is Swap Arbitrage allowed?
+
+No.
+
+
+---
+
+134. What is Market Abuse?
+
+Any trading designed to exploit system weaknesses rather than normal market movements.
+
+
+---
+
+NEWS TRADING
+
+135. Can I trade during major news?
+
+Not during the restricted window in the Funded Stage.
+
+
+---
+
+136. What is the news restriction for older accounts?
+
+No trading within 10 minutes before or after major news.
+
+
+---
+
+137. What is the news restriction for newer accounts?
+
+No trading within 5 minutes before or after major news.
+
+
+---
+
+138. Does the news rule apply to every challenge?
+
+The restriction applies in the Funded Stage according to the Rules.
+
+
+---
+
+EXPERT ADVISORS (EA)
+
+139. Can I use an Expert Advisor (EA)?
+
+It depends on the challenge type.
+
+
+---
+
+140. Which challenges allow Expert Advisors?
+
+1 Phase
+
+2 Phase
+
+Rapid
+
+
+
+---
+
+141. Which challenges do NOT allow Expert Advisors?
+
+Instant Funding
+
+24-Hour
+
+
+
+---
+
+142. What is an Expert Advisor?
+
+An automated trading system or script that trades with little or no user intervention.
+
+
+---
+
+WEEKEND TRADING
+
+143. Can I hold trades over the weekend?
+
+It depends on your challenge type.
+
+
+---
+
+144. Which challenges allow weekend trading?
+
+1 Phase
+
+2 Phase
+
+
+
+---
+
+145. Which challenges do NOT allow weekend trading?
+
+Rapid
+
+Instant Funding
+
+24-Hour
+
+
+
+---
+
+ACCOUNT RESTRICTIONS
+
+146. Can multiple accounts use the same IP address?
+
+No. Duplicate or related IP usage is prohibited.
+
+
+---
+
+147. Can I create multiple profiles using different email addresses?
+
+No.
+
+
+---
+
+148. What happens if I create multiple accounts with different emails?
+
+It is considered a prohibited act and may result in account termination.
+
+
+---
+
+149. Can prohibited trading affect my payout?
+
+Yes. Your payout may be withheld or declined if prohibited trading is detected.
+
+
+---
+
+150. What is the safest way to avoid violating the rules?
+
+Trade independently, avoid prohibited strategies, follow all challenge rules, and comply with any verification requests from DNA Funded.
+
+
+
+151. What does "Eliminated" mean?
+
+It means your account has breached the trading rules and is no longer eligible to continue in the challenge or funded stage.
+
+
+---
+
+152. Can my account be eliminated for breaking trading rules?
+
+Yes.
+
+
+---
+
+153. Can my payout be declined even if I'm profitable?
+
+Yes. If your trading violates the Rules & Conditions, your payout may be withheld or declined.
+
+
+---
+
+154. Does making a profit excuse a rule violation?
+
+No.
+
+
+---
+
+155. What happens if I break a prohibited trading rule?
+
+Your account may be terminated and any payout may be rejected.
+
+
+---
+
+156. Can DNA Funded review my trading history?
+
+Yes. The Risk Team reviews payout requests and trading activity for compliance.
+
+
+---
+
+157. Who decides whether my payout is approved?
+
+DNA Funded's Risk Team.
+
+
+---
+
+158. Can the Risk Team request additional verification?
+
+Yes.
+
+
+---
+
+159. Can I be asked to attend a phone interview?
+
+Yes.
+
+
+---
+
+160. Can I be asked to attend a video call?
+
+Yes.
+
+
+---
+
+161. What happens if I refuse a phone or video verification?
+
+Your payout may be delayed or declined.
+
+
+---
+
+162. Is every payout manually reviewed?
+
+Yes. Every payout request goes through a compliance review.
+
+
+---
+
+163. Can payout processing take longer than 48 hours?
+
+Yes. Additional investigations may extend the processing time.
+
+
+---
+
+164. Does DNA Funded investigate suspicious trading?
+
+Yes.
+
+
+---
+
+165. Can compliant traders still receive payouts?
+
+Yes, provided all payout requirements are met.
+
+
+---
+
+TRADING ACTIVITY
+
+166. Do I have to follow the rules throughout the entire challenge?
+
+Yes.
+
+
+---
+
+167. Do the rules continue after becoming funded?
+
+Yes.
+
+
+---
+
+168. Can I ignore the rules once I pass the Evaluation?
+
+No.
+
+
+---
+
+169. Does every stage have trading rules?
+
+Yes, although some rules only apply to specific stages.
+
+
+---
+
+170. Are Funded Stage rules stricter than Evaluation rules?
+
+Some prohibited strategies specifically apply to the Funded Stage.
+
+
+---
+171. Is this a brokerage account?
+
+No. It is a simulated trading environment.
+
+
+---
+
+172. Are my trades copied to a live account?
+
+The Rules & Conditions do not state that trades are copied to live markets.
+
+
+---
+
+173. Does DNA Funded guarantee funding?
+
+No. Funding depends on successfully meeting all applicable requirements.
+
+
+---
+
+174. Does passing a challenge guarantee a payout?
+
+No. You must also satisfy all payout eligibility requirements.
+
+
+---
+
+175. Can I lose funded status?
+
+Yes, by breaching the trading rules.
+
+
+---
+
+PLATFORM & MARKET CONDITIONS
+
+176. Can corporate actions affect my trades?
+
+Yes.
+
+
+---
+
+177. What are corporate actions?
+
+Events such as dividends, stock splits, mergers, and rights issues.
+
+
+---
+
+178. Who is responsible for managing trades during corporate actions?
+
+The trader.
+
+
+---
+
+179. Can corporate actions adjust my account?
+
+Yes.
+
+
+---
+
+180. Will my open positions be affected by corporate actions?
+
+Yes, where applicable.
+
+
+---
+
+CHALLENGE MANAGEMENT
+
+181. Can I have more than one active 24-Hour Challenge?
+
+No.
+
+
+---
+
+182. When can I buy another 24-Hour Challenge?
+
+Only after your current one has ended or has been breached.
+
+
+---
+
+183. What happens if I trade multiple 24-Hour Challenges at the same time?
+
+All involved accounts will be breached and any payouts forfeited.
+
+
+---
+
+184. Does this restriction apply to other challenge types?
+
+The document specifically applies this rule to the 24-Hour Challenge.
+
+
+---
+
+PAYOUTS
+
+185. Is there a maximum profit contribution from one trading day?
+
+Yes. Daily profit contribution is limited according to the applicable rules for funded accounts.
+
+
+---
+
+186. Are partial trade closures treated separately?
+
+No. Profits from partial closures are combined on the final day the position is fully closed.
+
+
+---
+
+187. Can one day's profit exceed the daily distribution limit?
+
+No. Any excess above the allowed limit will not count toward the payout request.
+
+
+---
+
+188. Does the daily distribution limit change?
+
+Yes. It depends on when the account was created.
+
+
+---
+
+189. Can I request a payout whenever I want?
+
+Only after meeting the waiting period and all payout requirements.
+
+
+---
+
+190. Is there a minimum payout requirement?
+
+Yes.
+
+
+---
+
+191. Can I receive payouts through Crypto?
+
+Yes.
+
+
+---
+
+192. Can I receive payouts through bank transfer?
+
+Yes, for eligible payout amounts.
+
+
+---
+
+193. Are payouts below $100 available through bank transfer?
+
+No. According to the rules, payouts below $100 are processed only via Crypto.
+
+
+---
+
+194. Can payouts be rejected even after I request them?
+
+Yes.
+
+
+---
+
+195. Is KYC always required?
+
+KYC may be required before payout approval.
+
+
+---
+
+GENERAL CLARIFICATIONS
+
+196. If something isn't mentioned in the Rules, should I assume it's allowed?
+
+No. Members should contact support if they are unsure about a specific situation.
+
+
+---
+
+197. Which document takes priority if two rules appear to conflict?
+
+These Rules & Conditions take precedence over the General Terms where an inconsistency exists.
+
+
+---
+
+198. Are moderators able to override the Rules?
+
+No. Moderators should only provide guidance based on the official Rules & Conditions.
+
+
+---
+
+199. If I'm unsure whether a strategy is allowed, what should I do?
+
+Contact DNA Funded Support before using the strategy.
+
+
+---
+
+200. Where can I find the official trading rules?
+
+In the latest DNA Funded Rules & Conditions document. If there is any difference between community guidance and the official rules, the official document always takes precedence
+
+
+201. Does the daily drawdown reset every day?
+
+Yes. The daily drawdown is recalculated each day based on the previous day's account balance snapshot.
+
+
+---
+
+202. Is the daily drawdown calculated from equity?
+
+No. It is based on the previous day's balance.
+
+
+---
+
+203. What formula is used to calculate the daily drawdown?
+
+Previous Day's Balance × Daily Drawdown % ÷ 100.
+
+
+---
+
+204. What formula is used to calculate the static drawdown?
+
+Initial Balance × Maximum Drawdown % ÷ 100.
+
+
+---
+
+205. Does a static drawdown move up as my account grows?
+
+No. It always remains based on the initial account balance.
+
+
+---
+
+206. Can the trailing drawdown ever move downward?
+
+No. It only moves upward when a new equity high is reached.
+
+
+---
+
+207. What happens if my equity falls below the trailing drawdown level?
+
+Your account will be eliminated.
+
+
+---
+
+208. Is there a profit target in the Funded Stage?
+
+No. Profit targets only apply during the assessment stages.
+
+
+---
+
+209. Do all challenge types have a profit target?
+
+No. Instant Funding does not have an assessment-stage profit target, and the 24-Hour Challenge uses fixed payout targets instead.
+
+
+---
+
+210. What happens if I reach the profit target but break a trading rule?
+
+Meeting the profit target does not override the rules. Your account may still be breached or your payout declined.
+
+
+---
+
+211. What happens if I don't complete the required minimum trading days?
+
+You will not be eligible to progress or receive a payout until the minimum trading day requirement is met.
+
+
+---
+
+212. What counts as a trading day?
+
+A calendar day on which you place at least one trade that satisfies the applicable rules.
+
+
+---
+
+213. Does opening multiple trades on the same day count as multiple trading days?
+
+No. It still counts as one trading day.
+
+
+---
+
+214. What is considered inactivity?
+
+Not placing any trades for more than 30 consecutive days.
+
+
+---
+
+215. What happens if my account is inactive for over 30 days?
+
+The account breaches the inactivity rule.
+
+
+---
+
+216. Does logging into my account reset inactivity?
+
+No. Only trading activity counts.
+
+
+---
+
+217. Is there a maximum total allocation across all my accounts?
+
+Yes. The combined allocation cannot exceed $600,000.
+
+
+---
+
+218. Can I exceed the $600,000 allocation by purchasing multiple challenges?
+
+No. The maximum allocation applies across all active accounts.
+
+
+---
+
+219. What is the Demo Reset add-on?
+
+An optional add-on that costs 50% of the initial challenge fee and is available only for the 1 Phase, 2 Phase, and Rapid Challenges.
+
+
+---
+
+220. What is the Funded Reset add-on?
+
+An optional add-on costing 60% of the initial fee, available only for the 24-Hour Challenge.
+
+
+---
+
+221. What is the Earlier Payout add-on?
+
+An optional add-on that allows payout eligibility after 7 days instead of the standard waiting period. It costs 20% of the initial fee.
+
+
+---
+
+222. Which challenges support the Earlier Payout add-on?
+
+1 Phase, 2 Phase, Rapid, and Instant Funding.
+
+
+---
+
+223. What is the 90% Profit Split add-on?
+
+An optional add-on that increases your profit split from 80% to 90%.
+
+
+---
+
+224. Which challenges support the 90% Profit Split add-on?
+
+1 Phase, 2 Phase, Rapid, and Instant Funding.
+
+
+---
+
+225. How much does the 90% Profit Split add-on cost?
+
+20% of the initial challenge fee.
+
+
+---
+
+226. What is the standard profit split without the add-on?
+
+80%.
+
+
+---
+
+227. Does the 24-Hour Challenge use an 80% profit split?
+
+No. It uses the selected payout multiplier instead.
+
+
+---
+
+228. When does the payout waiting period begin?
+
+From the account opening date or from the previous payout request.
+
+
+---
+
+229. Can I request another payout immediately after receiving one?
+
+No. You must wait until the next eligible payout period.
+
+
+---
+
+230. What is the minimum payout amount for standard funded accounts?
+
+$100 after the applicable profit split has been applied.
+
+
+---
+
+231. Is the minimum payout checked before or after the profit split?
+
+After the profit split is applied.
+
+
+---
+
+232. If my profit after the split is below $100, can I request a payout?
+
+No.
+
+
+---
+
+233. Are payouts under $100 ever allowed?
+
+Yes, but they are processed only via Crypto.
+
+
+---
+
+234. Can I choose a bank transfer for payouts under $100?
+
+No.
+
+
+---
+
+235. Does DNA Funded guarantee payouts within 24 hours?
+
+No. Approved payouts are typically processed within 24–48 hours, but reviews may take longer.
+
+
+---
+
+236. Can payout reviews be extended?
+
+Yes, if additional investigation is required.
+
+
+---
+
+237. Does every payout request go through the Risk Team?
+
+Yes.
+
+
+---
+
+238. What is the daily profit distribution limit for older accounts?
+
+40% of the requested profit.
+
+
+---
+
+239. What is the daily profit distribution limit for newer accounts?
+
+30% of the requested profit.
+
+
+---
+
+240. What is the purpose of the daily profit distribution rule?
+
+To prevent a single trading day from contributing more than the allowed percentage of the requested profit.
+
+
+---
+
+241. What is the profit cap?
+
+A temporary limit that applies to the first three approved payouts.
+
+
+---
+
+242. How much is the profit cap?
+
+5% of the nominated bankroll.
+
+
+---
+
+243. What happens to profits above the profit cap?
+
+They are forfeited and removed when the account is reset to its original balance.
+
+
+---
+
+244. Does the profit cap last forever?
+
+No. It applies only to the first three approved payouts.
+
+
+---
+
+245. Does the 24-Hour Challenge have a symbol limit?
+
+Yes.
+
+
+---
+
+246. What is the symbol limit in the 24-Hour Challenge?
+
+No single underlying asset may contribute more than 75% of the required profit target.
+
+
+---
+
+247. What happens if one symbol exceeds the 75% limit?
+
+The excess profit is excluded from the profit target calculation.
+
+
+---
+
+248. Can exceeding the symbol limit prevent a payout?
+
+Yes. If your adjusted eligible profit falls below the target, you won't qualify for a payout.
+
+
+---
+
+249. When does the 24-Hour Challenge begin?
+
+Immediately after purchase.
+
+
+250. Where should moderators look if a member asks about a situation not specifically covered in the FAQ?
+
+Refer to the latest DNA Funded Rules & Conditions and, if necessary, advise the member to contact official DNA Funded Support for clarification
